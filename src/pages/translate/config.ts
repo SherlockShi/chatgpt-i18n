@@ -30,6 +30,9 @@ export const intlLanguages: IDropdownSelectOption[] = [
     { value: "Ukrainian", label: "Українська" },
     { value: "Hebrew", label: "עברית" },
     { value: "Persian", label: "Farsi" },
+    { value: "Bengali", label: "বাংলা" },
+    { value: "Filipino", label: "Tagalog" },
+    { value: "Urdu", label: "اردو" },
 ];
 
 
